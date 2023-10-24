@@ -42,8 +42,8 @@ public class Main {
         individualCustomer.setId(1);
         individualCustomer.setPhone("0522222222");
         individualCustomer.setCustomerNumber("11117708900");
-        individualCustomer.getFirstName("Fatima");
-        individualCustomer.getLastName("Eksioglu");
+        individualCustomer.setFirstName("Fatima");
+        individualCustomer.setLastName("Eksioglu");
 
         CorporateCustomer corporateCustomer = new CorporateCustomer();
         corporateCustomer.setId(2);
